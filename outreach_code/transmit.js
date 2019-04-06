@@ -1,19 +1,19 @@
 radio.onReceivedNumber(function (receivedNumber) {
     if (1 == receivedNumber) {
         images.createImage(`
+            . . . . .
+            . . . . #
+            . . . # .
+            # . # . .
+            . # . . .
+            `).showImage(0)
+    } else {
+        images.createImage(`
             # . . . #
             . # . # .
             . . # . .
             . # . # .
             # . . . #
-            `).showImage(0)
-    } else {
-        images.createImage(`
-            . . . . .
-            . . . . .
-            . . . . .
-            . . . . .
-            . . . . .
             `).showImage(0)
     }
 })
