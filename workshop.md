@@ -3,7 +3,7 @@
 * Connect the Microbit to the computer using the Micro USB cable.
 * Go to https://makecode.microbit.org/
 * Here, you'll see The option to write code for your microbit in 2 ways, either with blocks, or using Javascript. The blocks mode is very similar to scratch.
-When you're happy with the program you have written, press the download button in the bottom left. After doing this, the code can be dragged onto the microbit in file explorer (Just like a USB stick), and the microbit will run it.
+* When you're happy with the program you have written, press the download button in the bottom left. After doing this, the code can be dragged onto the microbit in file explorer (Just like a USB stick), and the microbit will run it.
 
 ## Activity 1: Using forever Blocks
 
@@ -19,7 +19,7 @@ A lot statements that you can use in logic are written the same way that you wou
 
 The microbit has 2 buttons, "A" and "B" which give the microbit logic signals, and allow you to interact with it. When you press the button down, it sends a true signal to the microbit, and when the button is not pressed down, it sends false. You can find the blocks to use these buttons in the "input" tab in make code.
 
-Now see if you can modify your code to only show your chosen picture when you press one of the buttons.
+Now see if you can modify your code to only show your picture when you press one of the buttons.
 
 ## Activity 3: Talking to Another Microbit with Radio
 Now you have managed to interact with your microbit using buttons, why not try making it communicate with another microbit?
@@ -30,7 +30,6 @@ Here you could try using the "radio" tab in makecode to send messages between 2 
 
  Using what you have done previously, you should now be able to build a remote control robot using 2 microbits, one to control it, and one to control the motors. You will find that the output pins on the Microbit are not powerful enough to control the motors directly. You may have wondered what the small components with 3 pins are for. These are called transistors, and they are very useful in electronics, because they let you produce a large output from a small input.
 
-The 2n3904 transistor:
 ![Pinout of 2n3904 NPN BJT](img/2n3904.jpg)
  
  Above is a diagram of the transistor that you will be using. Notice that one side of the transistor is flat, and the other is curved, this is to help you see which way it is facing. You should connect the pin called the "emitter" (labeled as "E" on the picture) to your motor, the "collector" (labeled as "C" on the picture) to your AA battery pack, and the "base" (labeled as "B" on the picture) to one of the pins on your Microbit (if you're stuck, feel free to ask one of the volunteers, we're happy to help). You should now be able to control a motor using the connections on the Microbit. In order to make a functioning robot, you'll need to wire up 2 transistors like this, one for each motor.
