@@ -29,8 +29,9 @@ Here you could try using the "radio" tab in makecode to send messages between 2 
 ## Activity 4: Remote Control Robots
 
  Using what you have done previously, you should now be able to build a remote control robot using 2 microbits, one to control it, and one to control the motors. You will find that the output pins on the Microbit are not powerful enough to control the motors directly. You may have wondered what the small components with 3 pins are for. These are called transistors, and they are very useful in electronics, because they let you produce a large output from a small input.
- 
- \includegraphics{img/2n3904.jpg}
+
+The 2n3904 transistor:
+![Pinout of 2n3904 NPN BJT](img/2n3904.jpg)
  
  Above is a diagram of the transistor that you will be using. Notice that one side of the transistor is flat, and the other is curved, this is to help you see which way it is facing. You should connect the pin called the "emitter" (labeled as "E" on the picture) to your motor, the "collector" (labeled as "C" on the picture) to your AA battery pack, and the "base" (labeled as "B" on the picture) to one of the pins on your Microbit (if you're stuck, feel free to ask one of the volunteers, we're happy to help). You should now be able to control a motor using the connections on the Microbit. In order to make a functioning robot, you'll need to wire up 2 transistors like this, one for each motor.
 
