@@ -1,4 +1,15 @@
-# Microbits Lab
+# Microbits Workshop - Remote Controlled Carton Robots
+## Required kit (Per Team):
+* 2x Microbit
+* 2x Wheels
+* 2x Brushed DC motor
+* min. 6x Crocodile clip to male connectors
+* 1x 4AA Battery holder and batteries
+* 1x 2AAA Battery holder and batteries
+* 2x A to Micro B USB cables
+* 2x 2n3904 NPN Bipolar Transistor
+* 4x Crocodile clip to Crocodile clip connector
+
 ## Programming The Microbit
 * Connect the Microbit to the computer using the Micro USB cable.
 * Go to https://makecode.microbit.org/
