@@ -13,7 +13,8 @@
 ## Programming The Microbit
 * Connect the Microbit to the computer using the Micro USB cable.
 * Go to https://makecode.microbit.org/
-* Here, you'll see The option to write code for your microbit in 2 ways, either with blocks, or using Javascript. The blocks mode is very similar to scratch.
+* Here, you'll see The option to write code for your microbit in 2 ways, either with blocks, or using Javascript. The blocks mode is very similar to Scratch.
+* The makecode editor also has a microbit to the side (with another one if you're using radio features). This lets you see what your microbit is going to do after it has been programmed.
 * When you're happy with the program you have written, press the download button in the bottom left. After doing this, the code can be dragged onto the microbit in file explorer (Just like a USB stick), and the microbit will run it.
 
 ## Activity 1: Using forever Blocks
