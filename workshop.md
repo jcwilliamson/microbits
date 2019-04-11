@@ -26,6 +26,11 @@ The first thing that you should get comfortable with is the idea of a "forever" 
 
 In the "basic" tab, you will also find the "show leds" block (alternatively, you could use the "show icon" block). Using these 2 functions, see if you can make your microbit flash on and off with a pattern.
 
+Tick off these tasks before moving on to the next activity:
+* [ ] We programmed our microbit and made it do something we wanted it to do
+* [ ] We made our microbit show a pattern of lights
+* [ ] We made our microbit repeatedly flip between two different patterns
+
 ## Activity 2: Logic and Input
 
 Once you have done this, there is a second thing that would be useful for you to know about. This is called "logic", and it is based on statements that are true or false, for example, is one number bigger than another? These can be found under the "logic" tab in makecode.
@@ -36,6 +41,11 @@ The microbit has 2 buttons, "A" and "B" which give the microbit logic signals, a
 
 Now see if you can modify your code to only show your picture when you press one of the buttons, or to show one picture when a button is pressed, and a different one when no button is pressed.
 
+Tick off these tasks before moving on to the next activity:
+* [ ] We made our microbit do something when one of its buttons is pressed
+* [ ] We made our microbit show a different pattern when the "A" button is pressed
+* [ ] We made our microbit show a different pattern when both buttons are pressed
+
 ## Activity 3: Talking to Another Microbit with Radio
 
 Now you have managed to interact with your microbit using buttons, why not try making it communicate with another microbit?
@@ -43,6 +53,11 @@ Now you have managed to interact with your microbit using buttons, why not try m
 Here you could try using the "radio" tab in makecode to send messages between 2 microbits. It is important that you run the same code on each microbit so that you can both send and receive messages. Using what you have done previously, can you make an image appear on the LEDs of a different microbit when you press a button, and a different image when you do not? To do this, you will need to use the "on radio receive" block in "radio" to do things with incoming messages, as well as the "send number" block, along with your new knowledge of logic.
 
 *If you find that you are controlling someone else's microbit, or they are controlling yours, you can change the radio group manually by using the "set radio group" block in "radio". This is unlikely, but can happen, because radio groups are set randomly as a number between 0 and 255.*
+
+Tick off these tasks before moving on to the next activity:
+* [ ] We used the "send number" block to send a message to another microbit
+* [ ] We used the "on radio receive" block to do something when a message is received
+* [ ] We made our microbit show different patterns when buttons on another microbit are pressed
 
 ## Activity 4: Remote Control Robots
 
@@ -55,3 +70,11 @@ Above is a diagram of the transistor that you will be using. Notice that one sid
 The easiest way for you to use the transistors is to use your breadboard, which is a small black square with holes in it. These are designed so that the holes which are connected run towards the line down the middle of the board. The line in the middle separates the 2 sides of the breadboard.
 
 Now you have done this, you should be able to make the 2 motors turn separately. Think about how you could make your robot drive in a straight line and steer using the second microbit.
+
+Tick off these tasks to finish the worksheet:
+* [ ] We wired up a transistor
+* [ ] We made a motor move
+* [ ] We made a motor move when a button on our microbit is pressed
+* [ ] We made a robot to put our microbit, motors and breadboard in
+* [ ] We made the robot drive in a straight line
+* [ ] We made the robot turn left or right
