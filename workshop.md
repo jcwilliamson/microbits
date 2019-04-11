@@ -73,7 +73,7 @@ To connect up your motors, connect one of the copper tabs to the "emitter" of th
 
 Think about how you could make your robot drive in a straight line and steer by controlling the two motors. Here is some code to get you started:
 
-![](img/section4_help.png)
+![](img/section4_help.PNG)
 
 Try filling in the gaps to program your remote controlled robot! 
 
