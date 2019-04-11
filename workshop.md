@@ -69,7 +69,11 @@ Above is a diagram of the transistor that you will be using. Notice that one sid
 
 The easiest way for you to use the transistors is to use your breadboard, which is a small black square with holes in it. These are designed so that the holes which are connected run towards the line down the middle of the board. The line in the middle separates the 2 sides of the breadboard.
 
-Now you have done this, you should be able to make the 2 motors turn separately. Think about how you could make your robot drive in a straight line and steer using the second microbit.
+Think about how you could make your robot drive in a straight line and steer by controlling the two motors. Here is some code to get you started:
+
+!(img/section4_help.png)
+
+Try filling in the gaps to program your remote controlled robot! 
 
 Tick off these tasks to finish the worksheet:
 * [ ] We wired up a transistor
