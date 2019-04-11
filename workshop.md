@@ -16,9 +16,9 @@
 
 * Connect the Microbit to the computer using the Micro USB cable.
 * Go to https://makecode.microbit.org/
-* Here, you'll see The option to write code for your microbit in 2 ways, either with blocks, or using Javascript. The blocks mode is very similar to Scratch.
+* Here, you'll see the option to write code for your microbit in 2 ways, either with blocks, or using Javascript. The blocks mode is very similar to Scratch.
 * The makecode editor also has a microbit to the side (with another one if you're using radio features). This lets you see what your microbit is going to do after it has been programmed.
-* When you're happy with the program you have written, press the download button in the bottom left. After doing this, the code can be dragged onto the microbit in file explorer (Just like a USB stick), and the microbit will run it.
+* When you're happy with the program you have written, press the download button in the bottom left. After doing this, the code can be dragged onto the microbit in file explorer (just like a USB stick), and the microbit will run it.
 
 ## Activity 1: Using forever Blocks
 
@@ -40,7 +40,7 @@ Now see if you can modify your code to only show your picture when you press one
 
 Now you have managed to interact with your microbit using buttons, why not try making it communicate with another microbit?
 
-Here you could try using the "radio" tab in makecode to send messages between 2 microbits. It is important that you run the same code on each microbit so that you can both send and receive messages. Using what you have done previously, can you make an image appear on the LEDs of a different microbit when you press a button, and a different image when you do not? To do this, you will need to use the "on radio receive" block in "radio" to do things with incoming messages, aswell as the "send number" block, along with your new knowledge of logic.
+Here you could try using the "radio" tab in makecode to send messages between 2 microbits. It is important that you run the same code on each microbit so that you can both send and receive messages. Using what you have done previously, can you make an image appear on the LEDs of a different microbit when you press a button, and a different image when you do not? To do this, you will need to use the "on radio receive" block in "radio" to do things with incoming messages, as well as the "send number" block, along with your new knowledge of logic.
 
 *If you find that you are controlling someone else's microbit, or they are controlling yours, you can change the radio group manually by using the "set radio group" block in "radio". This is unlikely, but can happen, because radio groups are set randomly as a number between 0 and 255.*
 
