@@ -69,6 +69,8 @@ Above is a diagram of the transistor that you will be using. Notice that one sid
 
 The easiest way for you to use the transistors is to use your breadboard, which is a small black square with holes in it. These are designed so that the holes which are connected run towards the line down the middle of the board. The line in the middle separates the 2 sides of the breadboard.
 
+To connect up your motors, connect one of the copper tabs to the "emitter" of the transistor, and then the other copper tab to the black wire on your AA battery pack using crocodile clips. Then connect a crocodile clip between the black wire of your battery pack and the pin labeled GND on the Microbit. This last step is important, as it means that your Microbit and batteries will share the same ground. 
+
 Think about how you could make your robot drive in a straight line and steer by controlling the two motors. Here is some code to get you started:
 
 !(img/section4_help.png)
